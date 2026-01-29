@@ -1,0 +1,129 @@
+
+Copilot
+
+Smart GPT-5 ( novo )
+
+https://github.com/digitalinnovationone/copilot-prompts/blob/main/AGENT%201%20-%20Entrevistador%20de%20Carreira%20em%20Tecnologia
+
+Prompt: Agente 1 Entrevistador carreira Tec. ( texto link AGENT 1).
+
+Devolutiva:
+
+Olá! 👋
+Sou seu entrevistador de carreira em tecnologia. Vou fazer 7 perguntas rápidas para entender seu perfil e depois vou sugerir as melhores carreiras para você.
+Preparado? Então vamos lá!
+👉 Para começar: o que mais te atrai em tecnologia — resolver problemas, criar produtos ou entender sistemas?
+
+Exemplo:
+
+( trasição de carreira Suporte para produtos educacionais)
+
+Criar produtos
+
+Legal! 🚀 Então você gosta da parte criativa e de transformar ideias em algo concreto.
+👉 Me conta: você já tem experiência na área de tecnologia ou está começando do zero?
+
+
+Tenho anos de experiência em suporte.
+
+Entendi! Isso é ótimo, sua experiência em suporte já mostra que você tem contato com tecnologia e resolução de problemas no dia a dia.
+👉 Agora me diga: quantas horas por semana você consegue dedicar aos estudos?
+
+ 14   ( Não no Prompt média de 2 horas por dia )
+
+Pessoas
+
+Ótimo! 👥 Então você se sente mais confortável em interações humanas e gosta de trabalhar em ambientes colaborativos.
+👉 Me diga: qual é seu objetivo principal — conseguir o primeiro emprego, fazer transição de carreira ou crescer na função atual?
+
+
+fazer transição de carreira 
+
+
+Show! 🔄 Fazer uma transição de carreira
+
+BUG
+
+Continuar deste ponto: Me diga: qual é seu objetivo principal — conseguir o primeiro emprego, fazer transição de carreira ou crescer na função atual?     fazer transição de carreira
+
+
+Show! 🔄 Fazer uma transição de carreira é um passo muito importante e empolgante.
+👉 Me conta: quais assuntos ou tecnologias mais despertam seu interesse? (por exemplo: desenvolvimento web, dados, inteligência artificial, infraestrutura...)
+
+
+inteligência artificial
+
+
+Excelente! 🤖 Inteligência Artificial é uma área super promissora e cheia de oportunidades.
+👉 Última pergunta: você tem alguma experiência prévia (mesmo que não seja em tecnologia) que gostaria de aproveitar nessa nova jornada?
+
+
+Professor informática
+
+Perfeito! 🎯 Tenho tudo que preciso. Deixa eu analisar o melhor caminho para você...
+Com base no seu perfil, identifiquei 3 carreiras muito promissoras:
+════════════════════════════════════════════════════════════
+🥇 1º LUGAR: Cientista de Dados com foco em Inteligência Artificial – 18/20
+════════════════════════════════════════════════════════════
+💡 Por que combina com você:
+Você gosta de criar produtos, tem experiência em suporte e docência em informática, além de interesse direto em IA. Isso mostra afinidade com análise, construção de modelos e aplicação prática de soluções inteligentes.
+⚖️ O que esperar:
+Vantagens:
+• 	Alta demanda global por profissionais de IA
+• 	Possibilidade de unir análise de dados com criação de soluções inovadoras
+Desafios:
+• 	Necessidade de aprender estatística e programação avançada
+• 	Constante atualização em novas ferramentas e frameworks
+📈 Mercado:
+O mercado de IA cresce rapidamente, mas varia conforme região e nível de experiência. Profissionais iniciantes podem começar em análise de dados e evoluir para IA aplicada.
+════════════════════════════════════════════════════════════
+🥈 2º LUGAR: Desenvolvedor de Aplicações em Inteligência Artificial – 17/20
+════════════════════════════════════════════════════════════
+💡 Por que combina com você:
+Seu interesse em criar produtos e sua experiência como professor de informática se alinham com desenvolvimento de aplicações práticas que utilizam IA, como chatbots, sistemas de recomendação e automação inteligente.
+⚖️ O que esperar:
+Vantagens:
+• 	Trabalho direto na criação de soluções visíveis e úteis
+• 	Forte ligação com inovação e impacto em usuários finais
+Desafios:
+• 	Exige domínio de linguagens como Python e frameworks de IA
+• 	Necessário acompanhar evolução tecnológica constantemente
+📈 Mercado:
+A área de desenvolvimento em IA está em expansão, com oportunidades em startups, empresas de tecnologia e setores tradicionais que buscam automação.
+════════════════════════════════════════════════════════════
+🥉 3º LUGAR: Analista de Dados – 16/20
+════════════════════════════════════════════════════════════
+💡 Por que combina com você:
+Sua experiência em suporte e docência mostra habilidade em lidar com pessoas e explicar conceitos. O papel de analista de dados é uma porta de entrada sólida para depois migrar para IA, aproveitando sua base de informática.
+⚖️ O que esperar:
+Vantagens:
+• 	Ramp-up mais rápido para iniciantes
+• 	Base sólida para evoluir para ciência de dados e IA
+Desafios:
+• 	Trabalho inicial pode ser mais voltado a relatórios e dashboards
+• 	Exige disciplina para evoluir para áreas mais avançadas
+📈 Mercado:
+Analistas de dados são muito demandados em empresas de todos os setores. É uma carreira com alta empregabilidade, variando conforme região e experiência.
+════════════════════════════════════════════════════════════
+👉 Qual dessas carreiras te chamou mais atenção?
+
+
+Desenvolvedor de Aplicações em Inteligência Artificial
+
+
+Excelente escolha! 🎉
+Vou te passar para meu colega especialista em Desenvolvedor de Aplicações em Inteligência Artificial. Ele vai montar todo o plano de estudos personalizado para você!
+Aqui estão as informações que ele vai receber:
+- Carreira escolhida: Desenvolvedor de Aplicações em Inteligência Artificial
+- Horas disponíveis por semana: 14
+- Nível de experiência: alguma (anos em suporte + professor de informática)
+- Objetivo: transição de carreira
+- Preferência: pessoas
+- Interesses técnicos mencionados: inteligência artificial
+👉 Agora é com o Agent 2!
+
+
+
+
+
+
